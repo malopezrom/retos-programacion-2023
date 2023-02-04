@@ -12,3 +12,5 @@ package.json
 retos-programacion-2023.iml
 .idea/inspectionProfiles/Project_Default.xml
 git.bash
+git-commit.bash
+git-create.bash
