@@ -9,10 +9,7 @@ node_modules/.package-lock.json
 package-lock.json
 package.json
 .idea/workspace.xml
-retos-programacion-2023.iml
 .idea/inspectionProfiles/Project_Default.xml
 git.bash
-git-commit.bash
-git-create.bash
 .vs/slnx.sqlite
 .idea/libraries/Dart_SDK.xml
