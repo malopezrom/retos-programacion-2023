@@ -1,13 +1,7 @@
-
-.idea/misc.xml
 .idea/kotlinScripting.xml
 /output/
 .vscode/launch.json
 /node_modules/
 node_modules/.package-lock.json
-package-lock.json
-package.json
 .idea/inspectionProfiles/Project_Default.xml
-git.bash
 .vs/slnx.sqlite
-.idea/libraries/Dart_SDK.xml
