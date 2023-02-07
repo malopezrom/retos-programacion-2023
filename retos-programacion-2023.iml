@@ -14,13 +14,15 @@
       <sourceFolder url="file://$MODULE_DIR$/Retos/Reto #2 - EL PARTIDO DE TENIS [Media]/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Retos/Reto #3 - EL GENERADOR DE CONTRASEÑAS [Media]/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Retos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Retos/Reto #5 - HOLA MUNDO [Fácil]/java" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="openjdk-19 (WSL)" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="11 (WSL)" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.7.21" level="project" />
+    <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.7.21" level="project" />
     <orderEntry type="library" name="Python 3.11 interpreter library" level="application" />
     <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" exported="" name="java" level="project" />
   </component>
 </module>
