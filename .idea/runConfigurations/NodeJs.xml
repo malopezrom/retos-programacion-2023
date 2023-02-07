@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NodeJs" type="NodeJSConfigurationType" application-parameters="--project tsconfig.json" path-to-node="wsl://Debian@/home/malopez/.nvm/versions/node/v16.16.0/bin/node" node-parameters="--require ts-node/register" path-to-js-file="$FilePathRelativeToProjectRoot$" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>
