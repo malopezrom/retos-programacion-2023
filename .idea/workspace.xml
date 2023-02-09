@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d278c5ce-e002-4b53-b88f-c5b86f4e9e89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Retos/Reto #6 - PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK [Media]/python/malopezrom.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Retos/Reto #5 - HOLA MUNDO [Fácil]/java/malopezrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Retos/Reto #5 - HOLA MUNDO [Fácil]/java/malopezrom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,22 +51,7 @@
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.malopezrom">
-    <configuration name="Java" type="Application" factoryName="Application">
-      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="malopezrom" />
-      <module name="retos-programacion-2023" />
-      <projectPathOnTarget name="projectPathOnTarget" value="/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2022.3.1/jbr/bin /retos-programacion-2023" />
-      <target name="WSL - Debian" />
-      <method v="2" />
-    </configuration>
-    <configuration name="malopezrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="malopezrom" />
-      <module name="retos-programacion-2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Node.js.NodeJs">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
@@ -84,19 +69,49 @@
       <framework value="gotest" />
       <method v="2" />
     </configuration>
+    <configuration name="Java" type="Application" factoryName="Application">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="malopezrom" />
+      <module name="retos-programacion-2023" />
+      <projectPathOnTarget name="projectPathOnTarget" value="/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2022.3.1/jbr/bin /retos-programacion-2023" />
+      <target name="WSL - Debian" />
+      <method v="2" />
+    </configuration>
+    <configuration name="malopezrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="malopezrom" />
+      <module name="retos-programacion-2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" application-parameters="--project tsconfig.json" path-to-node="wsl://Debian@/home/malopez/.nvm/versions/node/v16.16.0/bin/node" node-parameters="--require ts-node/register" path-to-js-file="$FilePathRelativeToProjectRoot$">
       <method v="2" />
     </configuration>
+    <configuration name="malopezrom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="retos-programacion-2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Retos/Reto #6 - PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK [Media]/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Retos/Reto #6 - PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK [Media]/python/malopezrom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Application.Java" />
-      <item itemvalue="Application.malopezrom" />
       <item itemvalue="Node.js.NodeJs" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.malopezrom" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,8 +147,5 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/retos_programacion_2023$Java.ic" NAME="Java Coverage Results" MODIFIED="1675786479103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
