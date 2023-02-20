@@ -5,3 +5,6 @@
 node_modules/.package-lock.json
 .idea/inspectionProfiles/Project_Default.xml
 .vs/slnx.sqlite
+node_modules/.bin/tsc
+node_modules/.bin/tsserver
+node_modules/.bin/tsc
