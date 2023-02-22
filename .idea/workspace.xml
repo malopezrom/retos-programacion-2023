@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d278c5ce-e002-4b53-b88f-c5b86f4e9e89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Retos/Reto #6 - PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK [Media]/kotlin/malopezrom.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retos/Reto #7 - EL SOMBRERO SELECCIONADOR [Media]/dart/malopezrom.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/java.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retos-programacion-2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/retos-programacion-2023.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,18 +21,25 @@
       <list>
         <option value="Dart File" />
         <option value="Kotlin Script" />
+        <option value="Dart Class File" />
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../sdk/go1.20" />
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.20" />
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
     <option name="urls">
       <list>
-        <option value="file://$PROJECT_DIR$/../../../../go" />
+        <option value="file://$USER_HOME$/go" />
       </list>
     </option>
     <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="retos-programacion-2023/invalid/Kotlin" />
+      <facet id="retos-programacion-2023/invalid/Python" />
+    </ignored-facets>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,31 +55,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "ToolWindowDebug.ShowToolbar": "false",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "//wsl$/Debian/home/malopez/development/personal/mouredev/retos-programacion-2023/Retos/Reto #5 - HOLA MUNDO [Fácil]/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;ToolWindowDebug.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/malopez/development/personal/mouredev/retos-programacion-2023&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20344828&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin script (Beta).malopezrom.kts">
+}</component>
+  <component name="RunManager" selected="Dart Command Line App.malopezrom.dart (1)">
     <configuration name="Java" type="Application" factoryName="Application">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="malopezrom" />
@@ -78,12 +88,10 @@
       <target name="WSL - Debian" />
       <method v="2" />
     </configuration>
-    <configuration name="malopezrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="malopezrom" />
-      <module name="retos-programacion-2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="malopezrom.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #7 - EL SOMBRERO SELECCIONADOR [Media]/dart/malopezrom.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Retos/Reto #7 - EL SOMBRERO SELECCIONADOR [Media]/dart" />
+      <method v="2" />
     </configuration>
     <configuration name="malopezrom.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #6 - PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK [Media]/dart/malopezrom.dart" />
@@ -145,8 +153,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.Java" />
-      <item itemvalue="Application.malopezrom" />
       <item itemvalue="Dart Command Line App.malopezrom.dart" />
+      <item itemvalue="Dart Command Line App.malopezrom.dart (1)" />
       <item itemvalue="Kotlin script (Beta).malopezrom.kts" />
       <item itemvalue="Node.js.NodeJs" />
       <item itemvalue="Python.language_stats" />
@@ -154,9 +162,7 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin script (Beta).malopezrom.kts" />
-        <item itemvalue="Python.language_stats" />
-        <item itemvalue="Dart Command Line App.malopezrom.dart" />
+        <item itemvalue="Dart Command Line App.malopezrom.dart (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -194,8 +200,5 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/retos_programacion_2023$language_stats.coverage" NAME="language_stats Coverage Results" MODIFIED="1676239372635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Retos" />
   </component>
 </project>
