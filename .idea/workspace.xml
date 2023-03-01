@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d278c5ce-e002-4b53-b88f-c5b86f4e9e89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_groovy_ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retos/Reto #8 - EL GENERADOR PSEUDOALEATORIO [Media]/kotlin/malopezrom.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ant-1.10.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ant-antlr-1.10.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ant-junit-1.10.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ant-launcher-1.10.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/groovy-4.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/groovy-ant-4.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/groovy-groovydoc-4.0.3.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retos-programacion-2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/retos-programacion-2023.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +26,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Dart File" />
-        <option value="Kotlin Script" />
         <option value="Dart Class File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Script" />
       </list>
     </option>
   </component>
@@ -41,6 +51,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="2LOwX1Mmn1inrmULyWn3clde2Ld" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,10 +64,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ToolWindowDebug.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
@@ -65,7 +84,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.20344828",
     "settings.editor.selected.configurable": "flutter.settings",
@@ -73,106 +92,7 @@
     "ts.external.directory.path": "\\\\wsl$\\Debian\\home\\malopez\\development\\personal\\mouredev\\retos-programacion-2023\\node_modules\\typescript\\lib"
   }
 }]]></component>
-  <component name="RunManager" selected="Dart Command Line App.malopezrom.dart (1)">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="retos-programacion-2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="retos-programacion-2023" />
-      <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="retos-programacion-2023" />
-      <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="retos-programacion-2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="retos-programacion-2023" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="retos-programacion-2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="retos-programacion-2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="retos-programacion-2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Kotlin script (Beta).malopezrom.kts">
     <configuration name="Java" type="Application" factoryName="Application">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="malopezrom" />
@@ -186,40 +106,28 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/Retos/Reto #7 - EL SOMBRERO SELECCIONADOR [Media]/dart" />
       <method v="2" />
     </configuration>
-    <configuration name="malopezrom.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #6 - PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK [Media]/dart/malopezrom.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Retos/Reto #6 - PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK [Media]/dart" />
+    <configuration name="MalopezromKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="malopezrom.reto8.MalopezromKt" />
+      <module name="retos-programacion-2023" />
+      <target name="WSL - Debian" />
+      <shortenClasspath name="NONE" />
       <method v="2" />
+    </configuration>
+    <configuration name="Mariopolonia0Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mariopolonia0Kt" />
+      <module name="retos-programacion-2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="malopezrom.kts" type="KotlinStandaloneScriptRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="retos-programacion-2023" />
+      <target name="WSL - Debian" />
       <shortenClasspath name="NONE" />
-      <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #6 - PIEDRA, PAPEL, TIJERA, LAGARTO, SPOCK [Media]/kotlin/malopezrom.kts" />
+      <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #8 - EL GENERADOR PSEUDOALEATORIO [Media]/kotlin/malopezrom.kts" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" application-parameters="--project tsconfig.json" path-to-node="wsl://Debian@/home/malopez/.nvm/versions/node/v16.16.0/bin/node" node-parameters="--require ts-node/register" path-to-js-file="$FilePathRelativeToProjectRoot$">
-      <method v="2" />
-    </configuration>
-    <configuration name="language_stats" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="retos-programacion-2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Retos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Retos/language_stats.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="malopezrom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -245,12 +153,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.malopezrom.dart" />
+      <item itemvalue="Application.Java" />
       <item itemvalue="Dart Command Line App.malopezrom.dart (1)" />
+      <item itemvalue="Kotlin.Mariopolonia0Kt" />
+      <item itemvalue="Kotlin.MalopezromKt" />
+      <item itemvalue="Kotlin script (Beta).malopezrom.kts" />
       <item itemvalue="Node.js.NodeJs" />
+      <item itemvalue="Python.malopezrom" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin script (Beta).malopezrom.kts" />
+        <item itemvalue="Kotlin.MalopezromKt" />
+        <item itemvalue="Kotlin.Mariopolonia0Kt" />
         <item itemvalue="Dart Command Line App.malopezrom.dart (1)" />
       </list>
     </recent_temporary>
@@ -282,6 +197,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
@@ -289,5 +207,8 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/retos_programacion_2023$MalopezromKt.ic" NAME="MalopezromKt Coverage Results" MODIFIED="1677663985856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

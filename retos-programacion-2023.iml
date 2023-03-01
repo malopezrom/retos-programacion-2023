@@ -26,5 +26,7 @@
     <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.7.21" level="project" />
     <orderEntry type="library" exported="" name="Dart SDK" level="project" />
+    <orderEntry type="library" exported="" name="Python 3.11 interpreter library" level="application" />
+    <orderEntry type="library" exported="" name="apache.groovy.ant" level="project" />
   </component>
 </module>
