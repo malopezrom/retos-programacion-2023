@@ -1,0 +1,15 @@
+.idea/kotlinScripting.xml
+/output/
+.vscode/launch.json
+/node_modules/
+node_modules/.package-lock.json
+.idea/inspectionProfiles/Project_Default.xml
+.vs/slnx.sqlite
+node_modules/.bin/tsc
+node_modules/.bin/tsserver
+node_modules/.bin/tsc
+/.idea/libraries/groovy_4_0_2.xml
+/lib
+.idea/libraries/jetbrains_kotlinx_coroutines_debug.xml
+.idea/libraries/app_softwork_kotlinx_uuid_core_jvm.xml
+.idea/libraries/jetbrains_kotlinx_coroutines_core.xml
