@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+            "activityBar.background": "#007ACC",
+            "titleBar.activeBackground": "#007ACC",
+            "titleBar.activeForeground": "#f6fbfb"
+        },
+        "editorBracketHighlight.foreground1": "#ffffff",
+        "editorBracketHighlight.foreground2": "#f1f1f1",
+        "editorBracketHighlight.foreground3": "#e8e8ed",
+        "activityBar.background": "#3A2C02",
+        "titleBar.activeBackground": "#523D03",
+        "titleBar.activeForeground": "#FEFAEB"
+    },
+    "python.analysis.typeCheckingMode": "basic"
+}
