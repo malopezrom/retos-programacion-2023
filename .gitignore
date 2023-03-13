@@ -12,4 +12,13 @@ node_modules/.bin/tsserver
 .idea/libraries/jetbrains_kotlinx_coroutines_debug.xml
 .idea/libraries/app_softwork_kotlinx_uuid_core_jvm.xml
 .idea/libraries/jetbrains_kotlinx_coroutines_core.xml
-node_modules/
+node_modules/typescript
+node_modules/typescript/lib/lib.es2015.generator.d.ts
+package-lock.json
+node_modules/typescript/lib/tsc.js
+node_modules/typescript/lib/tsserver.js
+node_modules/typescript/lib/tsserverlibrary.js
+node_modules/typescript/lib/typescript.js
+node_modules/typescript/lib/typescriptServices.js
+node_modules/typescript/lib/typingsInstaller.js
+node_modules/typescript/package.json
