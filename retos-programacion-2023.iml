@@ -20,13 +20,17 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #4 - PRIMO, FIBONACCI Y PAR [Media]/groovy" />
       <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #3 - EL GENERADOR DE CONTRASEÑAS [Media]/groovy" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
     </content>
     <orderEntry type="jdk" jdkName="11 (WSL)" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.7.21" level="project" />
-    <orderEntry type="library" exported="" name="Dart SDK" level="project" />
-    <orderEntry type="library" exported="" name="Python 3.11 interpreter library" level="application" />
-    <orderEntry type="library" exported="" name="apache.groovy.ant" level="project" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.7.21" level="project" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Python 3.11 interpreter library" level="application" />
+    <orderEntry type="library" name="apache.groovy.ant" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>

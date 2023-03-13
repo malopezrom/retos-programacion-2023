@@ -1,0 +1,12 @@
+name: reto10
+version: 1.0.0
+homepage: https://example-pet-store.com/newtify
+documentation: https://example-pet-store.com/newtify/docs
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  intl: ^0.17.0
+  http: ^0.13.5
+

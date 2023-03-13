@@ -22,3 +22,4 @@ node_modules/typescript/lib/typescript.js
 node_modules/typescript/lib/typescriptServices.js
 node_modules/typescript/lib/typingsInstaller.js
 node_modules/typescript/package.json
+pubspec.lock
