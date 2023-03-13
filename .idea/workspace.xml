@@ -5,17 +5,113 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d278c5ce-e002-4b53-b88f-c5b86f4e9e89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_groovy_ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retos/Reto #8 - EL GENERADOR PSEUDOALEATORIO [Media]/kotlin/malopezrom.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ant-1.10.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ant-antlr-1.10.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ant-junit-1.10.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ant-launcher-1.10.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-4.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-ant-4.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/groovy-groovydoc-4.0.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retos-programacion-2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/retos-programacion-2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retos/Reto #10 - LA API [Media]/typescript/malopezrom.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/bin/tsc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/bin/tsc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/bin/tsserver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/bin/tsserver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/cancellationToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/cancellationToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/de/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/de/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/dynamicImportCompat.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/dynamicImportCompat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/es/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/es/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/it/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/it/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.collection.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.collection.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.array.include.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.array.include.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.regexp.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.regexp.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.symbol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.symbol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.bigint.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.bigint.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.date.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.date.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.number.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.number.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.weakref.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.weakref.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.error.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.error.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.weakref.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.weakref.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.scripthost.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.scripthost.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.importscripts.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.importscripts.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/protocol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/protocol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescriptServices.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/watchGuard.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/watchGuard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +161,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Downloaded.Files.Path.Enabled": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -92,18 +189,13 @@
     "ts.external.directory.path": "\\\\wsl$\\Debian\\home\\malopez\\development\\personal\\mouredev\\retos-programacion-2023\\node_modules\\typescript\\lib"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin script (Beta).malopezrom.kts">
+  <component name="RunManager" selected="Node.js.Ts-Node">
     <configuration name="Java" type="Application" factoryName="Application">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="malopezrom" />
       <module name="retos-programacion-2023" />
       <projectPathOnTarget name="projectPathOnTarget" value="/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2022.3.1/jbr/bin /retos-programacion-2023" />
       <target name="WSL - Debian" />
-      <method v="2" />
-    </configuration>
-    <configuration name="malopezrom.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #7 - EL SOMBRERO SELECCIONADOR [Media]/dart/malopezrom.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Retos/Reto #7 - EL SOMBRERO SELECCIONADOR [Media]/dart" />
       <method v="2" />
     </configuration>
     <configuration name="MalopezromKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -125,6 +217,9 @@
       <target name="WSL - Debian" />
       <shortenClasspath name="NONE" />
       <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #8 - EL GENERADOR PSEUDOALEATORIO [Media]/kotlin/malopezrom.kts" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ts-Node" type="NodeJSConfigurationType" application-parameters="--project tsconfig.json" path-to-node="wsl://Debian@/home/malopez/.nvm/versions/node/v16.16.0/bin/node" node-parameters=" --loader ts-node/esm " path-to-js-file="$FilePathRelativeToProjectRoot$" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" application-parameters="--project tsconfig.json" path-to-node="wsl://Debian@/home/malopez/.nvm/versions/node/v16.16.0/bin/node" node-parameters="--require ts-node/register" path-to-js-file="$FilePathRelativeToProjectRoot$">
@@ -153,22 +248,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Java" />
-      <item itemvalue="Dart Command Line App.malopezrom.dart (1)" />
-      <item itemvalue="Kotlin.Mariopolonia0Kt" />
-      <item itemvalue="Kotlin.MalopezromKt" />
-      <item itemvalue="Kotlin script (Beta).malopezrom.kts" />
+      <item itemvalue="Node.js.Ts-Node" />
       <item itemvalue="Node.js.NodeJs" />
-      <item itemvalue="Python.malopezrom" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin script (Beta).malopezrom.kts" />
-        <item itemvalue="Kotlin.MalopezromKt" />
-        <item itemvalue="Kotlin.Mariopolonia0Kt" />
-        <item itemvalue="Dart Command Line App.malopezrom.dart (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,8 +289,5 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/retos_programacion_2023$MalopezromKt.ic" NAME="MalopezromKt Coverage Results" MODIFIED="1677663985856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
