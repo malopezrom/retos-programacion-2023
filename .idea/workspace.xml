@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2380f1ff-983f-43e1-aaf6-0a1a910a2d4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ts_node.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/typescript/malopezrom.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/NodeJs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2380f1ff-983f-43e1-aaf6-0a1a910a2d4f" name="Changes" comment="Update gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/typescript/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/typescript/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/SECURITY.md" afterDir="false" />
@@ -115,8 +112,6 @@
       <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/typescript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -386,6 +381,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
