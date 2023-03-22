@@ -2,6 +2,7 @@
 /output/
 .vscode/launch.json
 /node_modules/
+/node_modules
 node_modules/.package-lock.json
 .idea/inspectionProfiles/Project_Default.xml
 .vs/slnx.sqlite
