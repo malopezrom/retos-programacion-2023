@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32c4850c-43c8-42c2-a7cc-4c013fef67de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/kotlin/malopezrom.kts" afterDir="false" />
+    <list default="true" id="a4a5cb9c-d080-45bd-b895-1b1c5b59ac19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/dart/malopezrom.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/retos-programacion-2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/retos-programacion-2023.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Script" />
+        <option value="Dart File" />
       </list>
     </option>
   </component>
@@ -36,13 +39,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectId" id="2NNjdEqmjfqPIr4GSaRnv7jvwOt" />
+  <component name="ProjectId" id="2NO0cPdHZArH6j76c8lo17PlZjC" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -52,40 +52,56 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "go.import.settings.migrated": "true",
-    "last.edited.regexp": "",
-    "last_opened_file_path": "//wsl$/Debian/home/malopez/development/personal/mouredev/retos-programacion-2023",
+    "last_opened_file_path": "//wsl$/Debian/home/malopez/development/personal/mouredev/retos-programacion-2023/Retos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15429688",
-    "project.structure.side.proportion": "0.0",
-    "ts.external.directory.path": "\\\\wsl$\\Debian\\home\\malopez\\development\\personal\\mouredev\\retos-programacion-2023\\node_modules\\typescript\\lib"
+    "project.structure.side.proportion": "0.3391204",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin script (Beta).malopezrom.kts">
-    <configuration name="malopezrom.kts" type="KotlinStandaloneScriptRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="retos-programacion-2023" />
-      <shortenClasspath name="NONE" />
-      <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/kotlin/malopezrom.kts" />
+  <component name="RunManager" selected="Dart Command Line App.malopezrom.dart (1)">
+    <configuration name="malopezrom.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Retos/malopezrom.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="malopezrom.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="checkedMode" value="false" />
+      <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/dart/malopezrom.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="titoworldev.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #3 - EL GENERADOR DE CONTRASEÑAS [Media]/dart/titoworldev.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin script (Beta).malopezrom.kts" />
+      <item itemvalue="Dart Command Line App.malopezrom.dart (1)" />
+      <item itemvalue="Dart Command Line App.titoworldev.dart" />
+      <item itemvalue="Dart Command Line App.malopezrom.dart" />
       <item itemvalue="Node.js.ts-node" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin script (Beta).malopezrom.kts" />
+        <item itemvalue="Dart Command Line App.malopezrom.dart (1)" />
+        <item itemvalue="Dart Command Line App.titoworldev.dart" />
+        <item itemvalue="Dart Command Line App.malopezrom.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -95,5 +111,25 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/dart/malopezrom.dart</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/dart/malopezrom.dart</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
