@@ -294,6 +294,7 @@ class HangedGame {
 class UserInterface{
 
    public HangedInput:string[] = [`
+<<<<<<< Updated upstream
                             +---+\n 
                             |   |\n 
                             O   |\n 
@@ -328,6 +329,42 @@ class UserInterface{
                            /|\\  |\n
                            / \\  |\n
                                 |\n
+=======
+                            +---+
+                            |   |
+                            O   | 
+                            |   |
+                                |
+                                |
+                        =========`,`
+                            +---+ 
+                            |   |
+                            O   | 
+                           /|\  |
+                                |
+                                |
+                        =========`,`
+                            +---+ 
+                            |   | 
+                            O   | 
+                           /|\  |
+                                |
+                                |
+                        =========`,`
+                            +---+ 
+                            |   | 
+                            O   | 
+                           /|\ |
+                           /    |
+                                |
+                        =========`,`
+                            +---+
+                            |   | 
+                            O   | 
+                           /|\  |
+                           / \  |
+                                |
+>>>>>>> Stashed changes
                         =========`,
 
 
