@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4a5cb9c-d080-45bd-b895-1b1c5b59ac19" name="Changes" comment="">
-<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/dart/malopezrom.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
@@ -13,10 +12,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/retos-programacion-2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/retos-programacion-2023.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Retos/Reto #13 - ADIVINA LA PALABRA [Media]/typescript/malopezrom.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Retos/Reto #13 - ADIVINA LA PALABRA [Media]/typescript/malopezrom.ts" afterDir="false" />
->>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

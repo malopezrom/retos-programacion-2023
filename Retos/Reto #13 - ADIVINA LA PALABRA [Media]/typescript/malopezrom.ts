@@ -65,8 +65,8 @@ class GuessWord{
 
     /**
      * Constructor de la clase
-     * @param word Palabra original a adivinar
-     * @param handicap Porcentaje de letras a ocultar
+     * @param word Palabra original a adivinarl
+     * @param handicap Porcentaje de letras a ocultarlllll
      */
 
     constructor(word:string, handicap:number){
@@ -294,42 +294,6 @@ class HangedGame {
 class UserInterface{
 
    public HangedInput:string[] = [`
-<<<<<<< Updated upstream
-                            +---+\n 
-                            |   |\n 
-                            O   |\n 
-                            |   |\n
-                                |\n
-                                |\n
-                        =========`,`
-                            +---+\n 
-                            |   |\n 
-                            O   |\n 
-                           /|\\  |\n
-                                |\n
-                                |\n
-                        =========`,`
-                            +---+\n 
-                            |   |\n 
-                            O   |\n 
-                           /|\\  |\n
-                                |\n
-                                |\n
-                        =========`,`
-                            +---+\n 
-                            |   |\n 
-                            O   |\n 
-                           /|\\  |\n
-                           /    |\n
-                                |\n
-                        =========`,`
-                            +---+\n 
-                            |   |\n 
-                            O   |\n 
-                           /|\\  |\n
-                           / \\  |\n
-                                |\n
-=======
                             +---+
                             |   |
                             O   | 
@@ -340,31 +304,30 @@ class UserInterface{
                             +---+ 
                             |   |
                             O   | 
-                           /|\  |
+                           /|   |
                                 |
                                 |
                         =========`,`
                             +---+ 
                             |   | 
                             O   | 
-                           /|\  |
+                           /|\\  |
                                 |
                                 |
                         =========`,`
                             +---+ 
                             |   | 
                             O   | 
-                           /|\ |
+                           /|\\  |
                            /    |
                                 |
                         =========`,`
                             +---+
                             |   | 
                             O   | 
-                           /|\  |
-                           / \  |
+                           /|\\  |
+                           / \\  |
                                 |
->>>>>>> Stashed changes
                         =========`,
 
 

@@ -18,5 +18,7 @@
     <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.8.0" level="project" />
     <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" exported="" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="jetbrains.kotlinx.serialization.json.jvm" level="project" />
+    <orderEntry type="library" exported="" name="google.code.gson" level="project" />
   </component>
 </module>
