@@ -30,6 +30,8 @@
       <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #8 - EL GENERADOR PSEUDOALEATORIO [Media]" />
       <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #9 - HETEROGRAMA, ISOGRAMA Y PANGRAMA [Fácil]" />
       <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #15 - AUREBESH [Fácil]" />
+      <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #17 - GIT Y GITHUB [Difícil]" />
+      <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #18 - WEB SCRAPING [Difícil]" />
     </content>
     <orderEntry type="jdk" jdkName="19" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
