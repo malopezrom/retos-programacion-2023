@@ -37,10 +37,18 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.8.0" level="project" />
     <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
+<<<<<<< Updated upstream
     <orderEntry type="library" exported="" name="Dart SDK" level="project" />
+=======
+    <orderEntry type="library" name="Dart SDK" level="project" />
+>>>>>>> Stashed changes
     <orderEntry type="library" name="jetbrains.kotlinx.serialization.json.jvm" level="project" />
     <orderEntry type="library" exported="" name="google.code.gson" level="project" />
     <orderEntry type="library" exported="" name="apache.groovy" level="project" />
     <orderEntry type="library" exported="" name="apache.groovy.ant" level="project" />
+<<<<<<< Updated upstream
+=======
+    <orderEntry type="library" exported="" name="Dart Packages" level="project" />
+>>>>>>> Stashed changes
   </component>
 </module>
