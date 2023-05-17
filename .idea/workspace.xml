@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="a4a5cb9c-d080-45bd-b895-1b1c5b59ac19" name="Changes" comment="" />
-=======
     <list default="true" id="a4a5cb9c-d080-45bd-b895-1b1c5b59ac19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Retos/malopezrom.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retos/malopezrom.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/retos-programacion-2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/retos-programacion-2023.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
->>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,13 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-<<<<<<< Updated upstream
         <option value="Dart File" />
         <option value="Kotlin File" />
-=======
-        <option value="Kotlin File" />
-        <option value="Dart File" />
->>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -64,36 +54,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< Updated upstream
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;ToolWindowKotlin Bytecode.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20 (WSL)&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl$/Debian/home/malopez/development/personal/mouredev/retos-programacion-2023/Retos/Reto #15 - AUREBESH [Fácil]/kotlin&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3391204&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;\\\\wsl$\\Debian\\home\\malopez\\development\\personal\\mouredev\\retos-programacion-2023\\node_modules\\typescript\\lib&quot;
-  }
-}</component>
-=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
@@ -119,17 +79,21 @@
     "project.structure.side.proportion": "0.3391204",
     "settings.editor.selected.configurable": "dart.settings",
     "show.migrate.to.gradle.popup": "false",
-    "ts.external.directory.path": "\\\\wsl$\\Debian\\home\\malopez\\development\\personal\\mouredev\\retos-programacion-2023\\node_modules\\typescript\\lib"
+    "ts.external.directory.path": "F:\\development\\personal\\mouredev\\retos-programacion-2023\\node_modules\\typescript\\lib"
   }
 }]]></component>
->>>>>>> Stashed changes
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\development\personal\mouredev\retos-programacion-2023\Retos\Reto #18 - WEB SCRAPING [Difícil]\dart" />
       <recent name="F:\development\personal\mouredev\retos-programacion-2023\Retos" />
     </key>
   </component>
-<<<<<<< Updated upstream
   <component name="RunManager" selected="Kotlin.MalopezromKt">
+    <configuration name="malopezrom.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Retos/Reto #18 - WEB SCRAPING [Difícil]/dart/malopezrom.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="MalopezromKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MalopezromKt" />
       <module name="retos-programacion-2023" />
@@ -138,26 +102,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.MalopezromKt" />
-=======
-  <component name="RunManager" selected="Dart Command Line App.malopezrom.dart">
-    <configuration name="malopezrom.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Retos/malopezrom.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <list>
       <item itemvalue="Dart Command Line App.malopezrom.dart" />
->>>>>>> Stashed changes
+      <item itemvalue="Kotlin.MalopezromKt" />
       <item itemvalue="Node.js.ts-node" />
     </list>
     <recent_temporary>
       <list>
-<<<<<<< Updated upstream
         <item itemvalue="Kotlin.MalopezromKt" />
-=======
         <item itemvalue="Dart Command Line App.malopezrom.dart" />
->>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -171,22 +123,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="Dart">
-<<<<<<< Updated upstream
-          <url>file://$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/dart/malopezrom.dart</url>
-          <line>21</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="Dart">
-          <url>file://$PROJECT_DIR$/Retos/Reto #11 - URL PARAMS [Fácil]/dart/malopezrom.dart</url>
-          <line>10</line>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Retos/malopezrom.kt</url>
+          <line>24</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-=======
-          <url>file://$PROJECT_DIR$/Retos/malopezrom.dart</url>
-          <line>21</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -197,7 +137,6 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
->>>>>>> Stashed changes
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">

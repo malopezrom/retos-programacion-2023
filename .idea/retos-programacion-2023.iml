@@ -32,23 +32,19 @@
       <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #15 - AUREBESH [Fácil]" />
       <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #17 - GIT Y GITHUB [Difícil]" />
       <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #18 - WEB SCRAPING [Difícil]" />
+      <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #15 - AUREBESH [Fácil]/kotlin" />
+      <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #19 - ANÁLISIS DE TEXTO [Media]" />
+      <excludeFolder url="file://$MODULE_DIR$/Retos/Reto #20 - LA TRIFUERZA [Media]" />
     </content>
     <orderEntry type="jdk" jdkName="19" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-script-runtime:1.8.0" level="project" />
     <orderEntry type="library" exported="" name="KotlinJavaRuntime" level="project" />
-<<<<<<< Updated upstream
-    <orderEntry type="library" exported="" name="Dart SDK" level="project" />
-=======
-    <orderEntry type="library" name="Dart SDK" level="project" />
->>>>>>> Stashed changes
     <orderEntry type="library" name="jetbrains.kotlinx.serialization.json.jvm" level="project" />
     <orderEntry type="library" exported="" name="google.code.gson" level="project" />
     <orderEntry type="library" exported="" name="apache.groovy" level="project" />
     <orderEntry type="library" exported="" name="apache.groovy.ant" level="project" />
-<<<<<<< Updated upstream
-=======
-    <orderEntry type="library" exported="" name="Dart Packages" level="project" />
->>>>>>> Stashed changes
+    <orderEntry type="library" exported="" name="Dart SDK" level="project" />
+    <orderEntry type="library" exported="" name="jsoup" level="project" />
   </component>
 </module>
