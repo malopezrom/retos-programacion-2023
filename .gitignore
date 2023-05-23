@@ -39,3 +39,9 @@ node_modules/typescript/lib/lib.dom.iterable.d.ts
 node_modules/typescript/lib/lib.es2015.collection.d.ts
 node_modules/typescript/lib/lib.es2015.core.d.ts
 node_modules/typescript/lib/lib.es2015.d.ts
+/bin
+fake
+/obj
+.vs/VSWorkspaceState.json
+
+.vscode/tasks.json
