@@ -8,11 +8,9 @@ environment:
 
 dependencies:
   #intl: ^0.17.0
-<<<<<<< Updated upstream
   #http: ^0.13.5
-=======
   http: ^0.13.5
   html: ^0.15.0
 
->>>>>>> Stashed changes
+
 
